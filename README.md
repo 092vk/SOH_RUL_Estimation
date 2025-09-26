@@ -1,12 +1,6 @@
 # SoH estimation of Lithium-ion battery
 - This project is designed to predict State of health (SoH) for identifying remaining useful life of Li-ion batteries.
 - Linear Regression, LSTM  
-- Nov. 1, 2020 ~ Dec. 1, 2020
-
-| [Plan](https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/Project_Plan.pdf) | [Presentation](https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/Presentation.pdf) |
-
-### Project for the Industrial Mathematics & Lab Course
-- This repo is maintained by 오서영, 조지수, 이윤녕, 정유은  
 
 ## Process  
 ### **1**. Calculating and Visualizing SoH with 7 Li-ion battery datasets | [Code](https://github.com/OH-Seoyoung/SoH_estimation_of_Lithium-ion_battery/blob/master/1_Calculation_and_Visulaliztion_of_SoH/Calculation_and_Visualization_of_SoH.ipynb)  
